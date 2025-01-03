@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="left" alt="code" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🌱 I’m currently learning **React**
+
 - 👯 I’m looking to collaborate on **FrontEnd and Backend Projects**
 - 📫 Reach me at **nawazthezaifre@gmail.com**
 - 📄 [Learn about my experiences](https://drive.google.com/file/d/10pewnnG_HEEoBFHGJd3gtjZK2c-scHmu/view?usp=sharing)
